@@ -1,1 +1,38 @@
-*
+th {
+    color: yellow
+}
+tr {
+ color: purple;
+}
+
+table {
+   border: 3px solid black;
+   background-color:#FFE4C4;
+}
+ th {
+    bakground: linear-gradient(90deg, rgba(121,60,9,0.9906163148853291) 31%, rgba(255,255,255,1) 100%);
+}
+.odd {
+    background-color: brown;
+    font-weight: bold;
+}
+.name {
+    background-color: #B22222 ; 
+    font-weight: bold;
+}
+.false {
+    background-color: #8B0000;
+}
+.re {
+    color: white;
+}
+th, td {
+    text-align: center;
+    width: 220px;
+    
+}
+.p {
+    background: rgb(131,52,0);
+    background: linear-gradient(90deg, rgba(131,52,0,1) 68%, rgba(255,255,255,1) 100%); 
+}
+ 
